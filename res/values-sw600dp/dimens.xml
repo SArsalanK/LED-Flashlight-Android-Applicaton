@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="percentage">65sp</dimen>
+    <dimen name="title">30sp</dimen>
+
+</resources>
